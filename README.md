@@ -5,9 +5,9 @@
 [![Documentation](https://img.shields.io/badge/bun-documentation-informational)](https://bun.uptrace.dev/)
 [![Chat](https://discordapp.com/api/guilds/752070105847955518/widget.png)](https://discord.gg/rWtp5Aj)
 
-Bun is brought to you by :star: [**uptrace/uptrace**](https://github.com/uptrace/uptrace). Uptrace
-is an open source and blazingly fast **distributed tracing** backend powered by OpenTelemetry and
-ClickHouse. Give it a star as well!
+> Bun is brought to you by :star: [**uptrace/uptrace**](https://github.com/uptrace/uptrace). Uptrace
+> is an open source and blazingly fast [distributed tracing tool](https://get.uptrace.dev/) powered
+> by OpenTelemetry and ClickHouse. Give it a star as well!
 
 ## Features
 
